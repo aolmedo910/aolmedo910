@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hola! 👋
 
 <!--
 **aolmedo910/aolmedo910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+  De momento estoy estudiando Python con el curso online CS50's
+  y con el github público de 30 Days of Python
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
