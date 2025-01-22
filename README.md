@@ -1,7 +1,7 @@
 ## Hola! 👋
 
   De momento estoy estudiando Python con el curso online CS50's
-  y con el github público de 30 Days of Python
+  y con el github público de 30 Days of Python de Asabeneh :)
 
 <!--
 **aolmedo910/aolmedo910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
